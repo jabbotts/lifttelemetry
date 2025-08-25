@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "lifttelemetry",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "5f3151f8-1e67-4848-91fd-5770d7a02f6d",
+      "database_name": "db_lift_telem"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
